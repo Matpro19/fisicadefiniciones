@@ -1,0 +1,50 @@
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #333;
+    color: #e66161;
+    padding: 1em;
+    text-align: center;
+}
+
+nav ul {
+    list-style: none;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 20px;
+}
+
+nav a {
+    color: #65A4AD;
+    text-decoration: none;
+}
+
+section {
+    padding: 20px;
+}
+
+#leyes .ley {
+    border: 1px solid #f77a7a;
+    padding: 10px;
+    margin-bottom: 20px;
+}
+
+#videos .video {
+    margin-bottom: 20px;
+}
+
+footer {
+    background-color: #333;
+    color: #E8F08E;
+    text-align: center;
+    padding: 1em;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
